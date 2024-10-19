@@ -5,19 +5,22 @@
       "name": "FC25 - Title Update 3",
       "size": "3.03GB",
       "released_date": "Oct 17, 2024",
-      "download_url": "https://spyderrock.com/1hCW8858-FC25-TitleUpdate3.rar"
+      "download_url": "https://spyderrock.com/1hCW8858-FC25-TitleUpdate3.rar",
+      "version": "25.0.7629452.0"
     },
     {
       "name": "FC25 - Title Update 2",
       "size": "2.41GB",
       "released_date": "Oct 1, 2024",
-      "download_url": "https://spyderrock.com/jmxk8867-FC25-TitleUpdate2.rar"
+      "download_url": "https://spyderrock.com/jmxk8867-FC25-TitleUpdate2.rar",
+      "version": "25.0.7612385.0"
     },
     {
       "name": "FC25 - Title Update 1",
       "size": "2.40GB",
       "released_date": "Sep 26, 2024",
-      "download_url": "https://spyderrock.com/b3139011-FC25-TitleUpdate1.rar"
+      "download_url": "https://spyderrock.com/b3139011-FC25-TitleUpdate1.rar",
+      "version": "25.0.7602471.0"
     }
   ]
 }
